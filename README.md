@@ -10,3 +10,15 @@ Feel free to explore the project folders to see each application in action. If y
 ### About Me
 I am deeply committed to front-end development and consistently seek opportunities to enhance my skills and broaden my knowledge in this field.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pradyumna-web-developer/) to see more of my work and projects.
+
+and projects.
+
+## How to Use
+- Clone the repository: `git clone https://github.com/pradyumn8/WebDev-Crafting.git`
+- Navigate to a specific project folder, e.g., `cd ProjectDay1`
+- Open `index.html` in your browser
+
+## Contribution
+Contributions are welcome! Feel free to open issues or submit PRs to improve the projects.
+
+# Projects with Vanilla JS
