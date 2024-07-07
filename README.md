@@ -15,10 +15,15 @@ and projects.
 
 ## How to Use
 - Clone the repository: `git clone https://github.com/pradyumn8/WebDev-Crafting.git`
-- Navigate to a specific project folder, e.g., `cd ProjectDay1`
+- Navigate to a specific project folder, e.g., `cd ProjectName`
 - Open `index.html` in your browser
 
 ## Contribution
 Contributions are welcome! Feel free to open issues or submit PRs to improve the projects.
 
 # Projects with Vanilla JS
+
+### Project 1: Background Animation ✓
+- **Description**: This HTML and CSS code creates a dynamic web page featuring a full-screen background animation. The body is styled with a background color of azure and has a grabbing cursor. The central container, designed to fill the entire viewport, flexibly arranges child elements. Each child element (a span) displays a background image that expands and becomes more visible upon hovering, creating an interactive visual effect. The JavaScript code generates multiple span elements dynamically, populating the container with 2000 shapes, enhancing the animation's visual complexity.
+- [Live Demo](https://eventskeycode.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/001129c058653f145d9210bb3ae01f5dcf609fc9/ProjectDay1)👨‍💻
