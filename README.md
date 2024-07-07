@@ -24,6 +24,11 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 # Projects with Vanilla JS
 
 ### Project 1: Background Animation ✓
-- **Description**: This HTML and CSS code creates a dynamic web page featuring a full-screen background animation. The body is styled with a background color of azure and has a grabbing cursor. The central container, designed to fill the entire viewport, flexibly arranges child elements. Each child element (a span) displays a background image that expands and becomes more visible upon hovering, creating an interactive visual effect. The JavaScript code generates multiple span elements dynamically, populating the container with 2000 shapes, enhancing the animation's visual complexity.
+- **Description**: This HTML and CSS code creates a full-screen animation with interactive spans that reveal a background image on hover, dynamically generating 2000 shapes using JavaScript.
 - [Live Demo](https://eventskeycode.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/001129c058653f145d9210bb3ae01f5dcf609fc9/ProjectDay1)👨‍💻
+
+### Project 1: Jumping Letters ✓
+- **Description**: This HTML and CSS code creates a colorful web page with large, clickable letters that jump and rotate on click, using JavaScript to animate the effect.
+- [Live Demo](https://eventskeycode.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/429cb0eed1b8bbaf4256d114440f7b80d747f7b9/ProjectDay2)👨‍💻
