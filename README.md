@@ -25,10 +25,15 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 
 ### Project 1: Background Animation ✓
 - **Description**: This HTML and CSS code creates a full-screen animation with interactive spans that reveal a background image on hover, dynamically generating 2000 shapes using JavaScript.
-- [Live Demo](https://eventskeycode.netlify.app/)🌐
+- [Live Demo](https://animation-bg.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/001129c058653f145d9210bb3ae01f5dcf609fc9/ProjectDay1)👨‍💻
 
-### Project 1: Jumping Letters ✓
+### Project 2: Jumping Letters ✓
 - **Description**: This HTML and CSS code creates a colorful web page with large, clickable letters that jump and rotate on click, using JavaScript to animate the effect.
-- [Live Demo](https://eventskeycode.netlify.app/)🌐
+- [Live Demo](https://jumping-letters.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/429cb0eed1b8bbaf4256d114440f7b80d747f7b9/ProjectDay2)👨‍💻
+
+### Project 3: Bell Notification ✓
+- **Description**: 
+- [Live Demo](https://bell-notification.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/134f53e9d9eb90baa36c299e000258c336eacd59/ProjectDay3)👨‍💻
