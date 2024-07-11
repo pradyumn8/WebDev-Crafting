@@ -34,6 +34,31 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/429cb0eed1b8bbaf4256d114440f7b80d747f7b9/ProjectDay2)👨‍💻
 
 ### Project 3: Bell Notification ✓
-- **Description**: 
+- **Description**: This project showcases an interactive notification bell using HTML, CSS, and JavaScript. A "Notify Me" button increments a counter displayed on the bell icon, which shakes to grab the user's attention.
 - [Live Demo](https://bell-notification.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/134f53e9d9eb90baa36c299e000258c336eacd59/ProjectDay3)👨‍💻
+
+### Project 4: Scrollbar Indicator ✓
+- **Description**: This project demonstrates a dynamic scrollbar indicator using HTML, CSS, and JavaScript. The indicator at the top of the page visually represents the user's scroll progress through the content.
+- [Live Demo](https://scrollbar-indicator.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/94142e764f5adb13ed279db45be53f477dc50605/ProjectDay4)👨‍💻
+
+### Project 5: Captcha Generator ✓
+- **Description**: This project demonstrates a Captcha Generator using HTML, CSS, and JavaScript. It generates a random string of characters that users must enter correctly to validate their input. The project includes functionality to refresh the Captcha and provides feedback on whether the entered Captcha matches the generated one.
+- [Live Demo](https://captcha-generatorr.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/94142e764f5adb13ed279db45be53f477dc50605/ProjectDay5)👨‍💻
+
+# Project 6: JavaScript Tabs ✓
+- **Description**: This project demonstrates a dynamic tab interface using HTML, CSS, and JavaScript. Users can switch between tabs representing different JavaScript frameworks (React, Vue, Angular), and the background color, icon, and text color will change accordingly.
+- [Live Demo](https://tabs-animation.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/94142e764f5adb13ed279db45be53f477dc50605/ProjectDay6)👨‍💻
+
+# Project 7: Illumination ✓
+- **Description**: This project demonstrates an illumination effect using HTML, CSS, and JavaScript. As the user moves their mouse across the screen, a radial gradient follows the cursor, creating an engaging visual effect that highlights the content.
+- [Live Demo](https://illuminaation.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/94142e764f5adb13ed279db45be53f477dc50605/ProjectDay7)👨‍💻
+
+# Project 8: Scratch Effect ✓
+- **Description**: This project creates a scratch effect using HTML, CSS, and JavaScript. The background features repeating linear gradients and blends to create a dynamic visual effect. A draggable image follows the cursor, enhancing the interactive experience.
+- [Live Demo](https://scratch-effect.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/94142e764f5adb13ed279db45be53f477dc50605/ProjectDay8)👨‍💻
