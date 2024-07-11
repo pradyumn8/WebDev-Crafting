@@ -48,27 +48,47 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - [Live Demo](https://captcha-generatorr.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/94142e764f5adb13ed279db45be53f477dc50605/ProjectDay5)👨‍💻
 
-# Project 6: JavaScript Tabs ✓
+### Project 6: JavaScript Tabs ✓
 - **Description**: This project demonstrates a dynamic tab interface using HTML, CSS, and JavaScript. Users can switch between tabs representing different JavaScript frameworks (React, Vue, Angular), and the background color, icon, and text color will change accordingly.
 - [Live Demo](https://tabs-animation.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/94142e764f5adb13ed279db45be53f477dc50605/ProjectDay6)👨‍💻
 
-# Project 7: Illumination ✓
+### Project 7: Illumination ✓
 - **Description**: This project demonstrates an illumination effect using HTML, CSS, and JavaScript. As the user moves their mouse across the screen, a radial gradient follows the cursor, creating an engaging visual effect that highlights the content.
 - [Live Demo](https://illuminaation.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/94142e764f5adb13ed279db45be53f477dc50605/ProjectDay7)👨‍💻
 
-# Project 8: Scratch Effect ✓
+### Project 8: Scratch Effect ✓
 - **Description**: This project creates a scratch effect using HTML, CSS, and JavaScript. The background features repeating linear gradients and blends to create a dynamic visual effect. A draggable image follows the cursor, enhancing the interactive experience.
 - [Live Demo](https://scratch-effect.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/0702fc8bb82d97508d188e1e854731ee99692725/ProjectDay8)👨‍💻
 
-# Project 9: Disco Color Effect ✓
+### Project 9: Disco Color Effect ✓
 - **Description**: This project showcases a disco color effect using HTML, CSS, and JavaScript. Six colorful lights pulse with changing colors, creating a dynamic and engaging visual experience.
 - [Live Demo](https://disco-color-effect.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/0702fc8bb82d97508d188e1e854731ee99692725/ProjectDay9)👨‍💻
 
-# Project 10: Search Box ✓
+### Project 10: Search Box ✓
 - **Description**: This project features a dynamic search box using HTML, CSS, and JavaScript. It expands and contracts smoothly when clicked, revealing search and close icons interchangeably.
 - [Live Demo](https://search-boxx.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/c4212f70c21bd95a5a2a1d5b83ed37363d29fbfb/ProjectDay10)👨‍💻
+
+### Project 11: GitHub Contribution ✓
+- **Description**:This project visualizes GitHub contribution activity using dynamically colored tiles. Each tile changes color and adds a shadow effect on hover, creating a dynamic and engaging display.
+- [Live Demo](https://github-contribution.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/9e27e8af66c22f85d536dcf90a6fce0b57cbf811/ProjectDay11)👨‍💻
+
+### Project 12: Rotating Animation ✓ 
+- **Description**: This project creates a rotating animation effect using HTML, CSS, and JavaScript. Multiple squares spin with increasing border widths and opacity, showcasing a dynamic visual experience.
+- [Live Demo](https://rotating-animate.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/9e27e8af66c22f85d536dcf90a6fce0b57cbf811/ProjectDay12)👨‍💻
+
+### Project 13: Currency Stack ✓
+- **Description**: This project features a dynamic stack of currency symbols (Euro) using HTML, CSS, and JavaScript. The images are layered with varying opacity and positioned using transforms to create a parallax effect based on mouse movement, giving a 3D-like appearance.
+- [Live Demo](https://currency-stack.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/9e27e8af66c22f85d536dcf90a6fce0b57cbf811/ProjectDay13)👨‍💻
+
+### Project 14: Scrolling Images ✓
+- **Description**: This project showcases a collection of blue flower images using HTML, CSS, and JavaScript. The images are arranged in cards with a parallax animation effect triggered by scrolling. As the user scrolls down the page, the cards slide into view, transforming from a minimized state to their full size.
+- [Live Demo](https://currency-stack.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/9e27e8af66c22f85d536dcf90a6fce0b57cbf811/ProjectDay13)👨‍💻
