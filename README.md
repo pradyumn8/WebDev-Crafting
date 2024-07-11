@@ -67,3 +67,8 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - **Description**: This project showcases a disco color effect using HTML, CSS, and JavaScript. Six colorful lights pulse with changing colors, creating a dynamic and engaging visual experience.
 - [Live Demo](https://disco-color-effect.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/0702fc8bb82d97508d188e1e854731ee99692725/ProjectDay9)👨‍💻
+
+# Project 10: Search Box ✓
+- **Description**: This project features a dynamic search box using HTML, CSS, and JavaScript. It expands and contracts smoothly when clicked, revealing search and close icons interchangeably.
+- [Live Demo](https://search-boxx.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/c4212f70c21bd95a5a2a1d5b83ed37363d29fbfb/ProjectDay10)👨‍💻
