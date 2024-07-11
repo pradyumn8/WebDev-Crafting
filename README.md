@@ -61,4 +61,9 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 # Project 8: Scratch Effect ✓
 - **Description**: This project creates a scratch effect using HTML, CSS, and JavaScript. The background features repeating linear gradients and blends to create a dynamic visual effect. A draggable image follows the cursor, enhancing the interactive experience.
 - [Live Demo](https://scratch-effect.netlify.app/)🌐
-- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/94142e764f5adb13ed279db45be53f477dc50605/ProjectDay8)👨‍💻
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/0702fc8bb82d97508d188e1e854731ee99692725/ProjectDay8)👨‍💻
+
+# Project 9: Disco Color Effect ✓
+- **Description**: This project showcases a disco color effect using HTML, CSS, and JavaScript. Six colorful lights pulse with changing colors, creating a dynamic and engaging visual experience.
+- [Live Demo](https://disco-color-effect.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/0702fc8bb82d97508d188e1e854731ee99692725/ProjectDay9)👨‍💻
