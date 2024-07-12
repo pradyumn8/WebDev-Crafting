@@ -90,5 +90,80 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 
 ### Project 14: Scrolling Images ✓
 - **Description**: This project showcases a collection of blue flower images using HTML, CSS, and JavaScript. The images are arranged in cards with a parallax animation effect triggered by scrolling. As the user scrolls down the page, the cards slide into view, transforming from a minimized state to their full size.
-- [Live Demo](https://currency-stack.netlify.app/)🌐
-- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/9e27e8af66c22f85d536dcf90a6fce0b57cbf811/ProjectDay13)👨‍💻
+- [Live Demo](https://scrolling-imgs.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay14)👨‍💻
+
+### Project 15: Simple To-Do List ✓
+- **Description**: This project is a basic to-do list application created using HTML, CSS, and JavaScript. Users can add new tasks to the list and remove them when completed. The interface includes an input field for entering tasks, an add button, and a list displaying the tasks with delete buttons.
+- [Live Demo](https://simple-2-do-list.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay15)👨‍💻
+
+### Project 16: News Letter Popup ✓
+- **Description**: This project showcases a newsletter subscription popup built using HTML, CSS, and JavaScript. Users can click a button to open the popup, enter their email address, and sign up for the newsletter. The popup includes smooth transitions and a close button.
+- [Live Demo](https://newsletter-popup.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay16)👨‍💻
+
+### Project 17: CSS Changer ✓
+- **Description**: This project is an interactive CSS changer where users can modify the appearance of an image using sliders and a color picker. The controls allow users to change the base color, width, border-radius, padding, and blur effect of the image.
+- [Live Demo](https://css-changer.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay17)👨‍💻
+
+### Project 18: Random Number Generator ✓
+- **Description**: This project is a simple random number generator where users can generate a random number between 1 and 100 by clicking a button. The result is displayed on the screen with an animation effect.
+- [Live Demo](https://randam-no-generator.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay18)👨‍💻
+
+### Project 19: Weight Converter ✓
+- **Description**: This project allows users to convert their weight from kilograms to pounds. The user inputs their weight in kilograms, and the equivalent weight in pounds is displayed on the screen.
+  - [Live Demo](https://weight-convertter.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay19)👨‍💻
+
+### Project 20: Code Editor ✓
+- **Description**: This project is a simple code editor that allows users to write HTML, CSS, and JavaScript code and see the output in real time. Users can type their code into the respective text areas, and the output will be displayed in an iframe.
+- [Live Demo](https://webdevv-editor.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay20)👨‍💻
+
+### Project 21: Stopwatch Application ✓
+- **Description**: This project is a simple stopwatch application that allows users to start, stop, and reset a timer. It displays the elapsed time in seconds and milliseconds.
+- [Live Demo](https://stop-watchapplication.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay21)👨‍💻
+
+### Project 22: Write a Message! ✓
+- **Description**: This project allows users to submit a message through an input field. If the input is empty, an error message is displayed. When a valid message is submitted, it is displayed on the screen.
+- [Live Demo](https://write-a-msg.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay22)👨‍💻
+
+### Project 23: FORM Validation ✓
+- **Description**: This project is a user account creation form with real-time validation. It checks for empty fields, valid email format, and password matching, providing immediate feedback to the user.
+- [Live Demo](https://validatation-form.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay23)👨‍💻
+
+### Project 24: Accordion ✓
+- **Description**:  This project showcases a newsletter subscription popup built using HTML, CSS, and JavaScript. Users can click a button to open the popup, enter their email address, and sign up for the newsletter. The popup includes smooth transitions and a close button.
+- [Live Demo](https://accordiion.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay24)👨‍💻
+
+### Project 25: Telphone Formatter ✓
+- **Description**: This project implements a telephone number input formatter that dynamically formats the user's input as they type. The format displayed is +(123) - 4565434, guiding users on how to enter their telephone numbers correctly.
+- [Live Demo](https://telephone-formattter.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay25)👨‍💻
+
+### Project 26: Cursor Animation ✓
+- **Description**: This project features a custom cursor that animates when hovering over navigation links. The cursor enlarges and changes color, providing a visually engaging interaction for users as they navigate through the page.
+- [Live Demo](https://animate-cursor.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay26)👨‍💻
+
+### Project 27: FD Calculator ✓
+- **Description**: This project is a fixed deposit (FD) calculator that computes the maturity amount based on the principal amount, interest rate, and tenure in years. Users can input their values and get instant results displayed on the screen.
+- [Live Demo](https://fd-calcullator.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay27)👨‍💻
+
+### Project 28: Tic Tac Toe ✓
+- **Description**: This project is a classic Tic Tac Toe game where two players take turns marking Xs and Os on a 3x3 grid. The game checks for a winner or a tie after each move and displays the result.
+- [Live Demo](https://tic-toc-2.netlify.app//)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay28)👨‍💻
+
+### Project 29: Random Quotes ✓
+- **Description**: This project fetches random quotes from an API and displays them on the webpage. Users can click a button to get a new quote each time.
+- [Live Demo](https://random-qoutte.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay29)👨‍💻
