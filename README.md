@@ -167,3 +167,38 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - **Description**: This project fetches random quotes from an API and displays them on the webpage. Users can click a button to get a new quote each time.
 - [Live Demo](https://random-qoutte.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay29)👨‍💻
+
+### Project 30: QR Code Generator ✓
+- **Description**: This project allows users to generate QR codes by entering text. The QR code is displayed on the webpage after clicking the "Generate QR" button.
+- [Live Demo](https://qr-code-genrattor.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/8a83421fe6d318480f7b06163a2131761fa158d3/ProjectDay30)👨‍💻
+
+### Project 31: Expense Tracker ✓
+- **Description**: This project is a simple expense tracker where users can add transactions with names and amounts, categorize them as income or expense, and see their balance updated in real-time.
+- [Live Demo](https://expense-trackkr.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/8a83421fe6d318480f7b06163a2131761fa158d3/ProjectDay31)👨‍💻
+
+### Project 32: Todo list ✓
+- **Description**: This project is a todo list application where users can add, search, and delete tasks. Each task can be marked as completed, and the search functionality allows users to filter tasks dynamically.
+- [Live Demo](https://2do-list-application.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/8a83421fe6d318480f7b06163a2131761fa158d3/ProjectDay32)👨‍💻
+
+### Project 33: Firecracker ✓
+- **Description**: This project is a dynamic canvas-based firecracker simulation. When the canvas is clicked, colorful firecrackers are generated at the click location and animate with diminishing radius and random velocities.
+- [Live Demo](https://fire-cracker.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/8a83421fe6d318480f7b06163a2131761fa158d3/ProjectDay33)👨‍💻
+
+### Project 34: ImageHub ✓
+- **Description**: ImageHub is a web application that allows users to search for and browse high-quality photos. Users can search for specific photo categories, view the curated list of images, and load more photos as needed. The photos displayed include the photographer's name and a download link.
+- [Live Demo](https://fire-cracker.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/8a83421fe6d318480f7b06163a2131761fa158d3/ProjectDay34)👨‍💻
+
+### Project 35: Find Location ✓
+- **Description**: ImageHub is a web application that allows users to search for and browse high-quality photos. Users can search for specific photo categories, view the curated list of images, and load more photos as needed. The photos displayed include the photographer's name and a download link.
+- [Live Demo](https://find-locattion.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/8a83421fe6d318480f7b06163a2131761fa158d3/ProjectDay35)👨‍💻
+
+### Project 35: Find Location ✓
+- **Description**: ImageHub is a web application that allows users to search for and browse high-quality photos. Users can search for specific photo categories, view the curated list of images, and load more photos as needed. The photos displayed include the photographer's name and a download link.
+- [Live Demo](https://find-locattion.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/8a83421fe6d318480f7b06163a2131761fa158d3/ProjectDay35)👨‍💻
