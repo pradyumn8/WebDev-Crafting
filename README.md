@@ -194,11 +194,36 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/8a83421fe6d318480f7b06163a2131761fa158d3/ProjectDay34)👨‍💻
 
 ### Project 35: Find Location ✓
-- **Description**: ImageHub is a web application that allows users to search for and browse high-quality photos. Users can search for specific photo categories, view the curated list of images, and load more photos as needed. The photos displayed include the photographer's name and a download link.
+- **Description**: Find Location is a simple web application that allows users to determine their current location using the Geolocation API and display it using the OpenCage Data Geocoding API. Users can click a button to fetch and display their city and country.
 - [Live Demo](https://find-locattion.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/8a83421fe6d318480f7b06163a2131761fa158d3/ProjectDay35)👨‍💻
 
-### Project 35: Find Location ✓
-- **Description**: ImageHub is a web application that allows users to search for and browse high-quality photos. Users can search for specific photo categories, view the curated list of images, and load more photos as needed. The photos displayed include the photographer's name and a download link.
-- [Live Demo](https://find-locattion.netlify.app/)🌐
-- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/8a83421fe6d318480f7b06163a2131761fa158d3/ProjectDay35)👨‍💻
+### Project 36: Interactive Name Entry ✓
+- **Description**: Interactive Name Entry is a simple web application that allows users to enter their name through a prompt. When the button is clicked, a prompt appears asking for the user's name, and if entered, it updates the text on the page to display the user's name.
+- [Live Demo](https://name-entry.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/17f499dbd44f94cb4500cba643f50669b9dc165c/ProjectDay36)👨‍💻
+
+### Project 37: Light-Bulb-On-Off ✓
+- **Description**: Light-Bulb-On-Off is an interactive web application that simulates turning a light bulb on and off. By clicking the switch button, users can toggle the background and the light bulb icon to mimic the light bulb being turned on and off.
+- [Live Demo](https://light-bulb-off-on.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/17f499dbd44f94cb4500cba643f50669b9dc165c/ProjectDay37)👨‍💻
+
+### Project 38: Random Number Generator ✓
+- **Description**: Random Number Generator is a simple web application that generates a random number between 1 and 100 each time the "Generate" button is clicked. The generated number is displayed with a smooth animation effect.
+- [Live Demo](https://random-no-generator.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/17f499dbd44f94cb4500cba643f50669b9dc165c/ProjectDay38)👨‍💻
+
+### Project 39: Hide & Show Password ✓
+- **Description**: The Hide & Show Password application provides a simple and secure way to toggle the visibility of password input. With a single click on the eye icon, users can switch between showing and hiding their password, making it easier to enter and verify their password.
+- [Live Demo](https://hide-and-show-pwd.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/17f499dbd44f94cb4500cba643f50669b9dc165c/ProjectDay39)👨‍💻
+
+### Project 40: Palindrome Checker ✓
+- **Description**: The Palindrome Checker allows users to input a word or phrase and determines if it reads the same forwards and backwards. It ignores case and non-alphanumeric characters for accurate results.
+- [Live Demo](https://palindrome-checkker.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/17f499dbd44f94cb4500cba643f50669b9dc165c/ProjectDay40)👨‍💻
+
+### Project 41: Character Unicode Generator ✓
+- **Description**: The Character Unicode Generator allows users to input a single character and retrieves its Unicode value. This tool is useful for understanding character encoding and representation in programming.
+- [Live Demo](https://character-unicode-gen.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/17f499dbd44f94cb4500cba643f50669b9dc165c/ProjectDay41)👨‍💻
