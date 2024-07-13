@@ -115,7 +115,7 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 
 ### Project 19: Weight Converter ✓
 - **Description**: This project allows users to convert their weight from kilograms to pounds. The user inputs their weight in kilograms, and the equivalent weight in pounds is displayed on the screen.
-  - [Live Demo](https://weight-convertter.netlify.app/)🌐
+- [Live Demo](https://weight-convertter.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/7bc699326a984bfc9906bf82ddfcde19348191e5/ProjectDay19)👨‍💻
 
 ### Project 20: Code Editor ✓
@@ -227,3 +227,98 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - **Description**: The Character Unicode Generator allows users to input a single character and retrieves its Unicode value. This tool is useful for understanding character encoding and representation in programming.
 - [Live Demo](https://character-unicode-gen.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/17f499dbd44f94cb4500cba643f50669b9dc165c/ProjectDay41)👨‍💻
+
+### Project 42: Email Validation ✓
+- **Description**: The Email Validation tool checks if the entered email address is valid. It provides real-time feedback with visual indicators and error messages to guide users in entering a proper email format.
+- [Live Demo](https://validatation-email.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay42)👨‍💻
+
+### Project 43: Animated Counter ✓
+- **Description**: The Animated Counter displays various statistics, such as web projects, courses, happy students, and learnings, with a smooth counting animation that enhances user engagement and visual appeal.
+- [Live Demo](https://animated-countter.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay43)👨‍💻
+
+### Project 44: Words Counter ✓
+- **Description**: The Words Counter allows users to input text and provides real-time counts of characters, words, and sentences. This interactive tool is useful for writers, students, and anyone needing text analysis.
+- [Live Demo](https://w0rds-counter.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay44)👨‍💻
+
+### Project 45: Upload File on Browser ✓
+- **Description**: This project enables users to upload a file from their computer and display its image on the browser. It features a simple interface with a button to browse files and an option to close the displayed image.
+- [Live Demo](https://file-uploadder.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay45)👨‍💻
+
+### Project 46: Flipkart Image Carousel ✓
+- **Description**: This project implements a responsive image carousel similar to those found on e-commerce sites like Flipkart. Users can navigate through product images using buttons or by clicking on thumbnails.
+- [Live Demo](https://flipkart-img-carousel.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay46)👨‍💻
+
+### Project 47: Search Functionality ✓
+- **Description**: This project implements a search feature that allows users to filter a list of technologies in real-time. As users type in the search box, the relevant items are displayed dynamically.
+- [Live Demo](https://search-functionallity.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay47)👨‍💻
+
+### Project 48: Draggable Split Image Viewer ✓
+- **Description**: This project features a draggable split image viewer that allows users to compare two images side by side. Users can slide a divider to reveal more of one image over the other, enhancing the visual comparison.
+- [Live Demo](https://draggable-split-image.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay48)👨‍💻
+
+### Project 49: Typing Text Effect ✓
+- **Description**: This project showcases a dynamic typing text effect that cycles through various uplifting words. It creates an engaging visual experience by typing out one word at a time within a header, enhancing user interaction.
+- [Live Demo](https://typing-txt-effect.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay49)👨‍💻
+
+### Project 50: Quick URLs Application ✓
+- **Description**: This application allows users to quickly save and manage their favorite URLs. Users can add site names and URLs, which are stored in local storage, enabling easy access and removal of bookmarks. The application provides a simple and intuitive interface for bookmark management.
+- [Live Demo](https://quick-urls.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay50)👨‍💻
+
+### Project 51: Star Rating ✓
+- **Description**: This application allows users to rate their experience using a star rating system. After submitting a rating, users receive a confirmation message and can edit their rating if desired. The interface provides an engaging and interactive experience for users to express their feedback.
+- [Live Demo](https://star-ratting.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay51)👨‍💻
+
+### Project 52: Robot Jokes Generator ✓
+- **Description**: This application allows users to request jokes from a friendly robot. With a simple button click, users can receive a random dad joke displayed in a chat-like interface, creating an engaging and fun experience.
+- [Live Demo](https://robot-jokes-generator.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay52)👨‍💻
+
+### Project 53: Hex to Binary Converter ✓
+- **Description**: This simple web application converts a single hexadecimal digit to its binary equivalent. Users can input a hexadecimal number and receive an immediate conversion, making it a handy tool for quick calculations.
+- [Live Demo](https://hex-2-binary.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay53)👨‍💻
+
+### Project 54: Awesome Cursor Effect ✓
+- **Description**: This interactive web application enhances the user experience by replacing the standard mouse cursor with two animated custom cursors. The effect adds a playful touch to any website, making it visually engaging.
+- [Live Demo](https://awesome-cursor-effect.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay54)👨‍💻
+
+### Project 55: Piano Application ✓
+- **Description**: This interactive piano application allows users to play notes by clicking on piano keys. Each key corresponds to a musical note, complete with sound effects, making it a fun way to explore music.
+- [Live Demo](https://piano-applicattion.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay55)👨‍💻
+
+### Project 56: Modal ✓
+- **Description**: This simple modal application features a button that opens a modal window. The modal displays a message and can be closed by clicking anywhere inside it, providing a seamless user experience.
+- [Live Demo](https://modal-application.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay56)👨‍💻
+
+### Project 57: Text to Voice ✓
+- **Description**: This application converts text input into speech. Users can enter their text in a textarea and click a button to hear it spoken aloud, making it a useful tool for accessibility and learning.
+- [Live Demo](https://text2-voice.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay57)👨‍💻
+
+### Project 58: Percentage Calculator ✓
+- **Description**: This application allows users to calculate a percentage of a given base number. Users can select a percentage using a slider and enter a base number to see the calculated result, making it a handy tool for quick calculations.
+- [Live Demo](https://percentage-calculattor.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay58)👨‍💻
+
+### Project 59: Speech to Text ✓
+- **Description**: This application converts spoken language into text using the Web Speech API. Users can start and stop voice recognition with intuitive buttons, making it easy to capture and display spoken words in real-time.
+- [Live Demo](https://speech-2text.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay59)👨‍💻
+
+### Project 60: BMI Calculator ✓
+- **Description**: This application allows users to calculate their Body Mass Index (BMI) based on their gender, age, height, and weight. The app provides a quick assessment of weight status, displaying the calculated BMI and corresponding category.
+- [Live Demo](https://bmi-calcualattor.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/WebDev-Crafting/tree/f5eb8f83ea389d873fcbb92a82455a269da67b98/ProjectDay60)👨‍💻
